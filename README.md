@@ -6,7 +6,7 @@
 - Two allen keys are required (2.5 mm and 4 mm ), if you have longer ones they will help with the screws that are in harder to reach areas.
 - Skip to the last chapter for final assembly if you are receiving this item partly assembled.
 
-<p style="text-align: center">
+<p style="text-align: center" align="center">
     <img src="assets/20230920_213057.jpg" style="width: 80%">
 </p>
 
@@ -23,7 +23,7 @@
 ### Step 2: bolt, ejector, frame
 - 2 x M3x8 mm screws
 
-<p style="text-align: center">
+<p style="text-align: center" align="center">
     <img src="assets/20230920_204109.jpg" style="width: 31%">
     <img src="assets/20230920_203938.jpg" style="width: 49%">
     <img src="assets/20230920_203922.jpg" style="width: 80%">
@@ -32,7 +32,7 @@
 ### Step 3: frame and adapter
 - 2 x M5x10 mm screws
 
-<p style="text-align: center">
+<p style="text-align: center" align="center">
     <img src="assets/20230920_203818.jpg" style="width: 40%">
     <img src="assets/20230920_203839.jpg" style="width: 40%">
     <img src="assets/20230920_203642.jpg" style="width: 40%">
