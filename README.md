@@ -15,7 +15,7 @@
 ### Step 1: extractor and bolt
 - 1 x M3x8 mm screw
 
-<p style="text-align: center">
+<p style="text-align: center" align="center">
     <img src="assets/20230920_204237.jpg" style="width: 80%">
     <img src="assets/20230920_204130_edit.jpg" style="width: 80%">
 </p>
