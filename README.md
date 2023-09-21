@@ -30,7 +30,7 @@
 </p>
 
 ### Step 3: frame and adapter
-- 2 x M5x10 mm screws
+- 2 x M5x12 mm screws
 
 <p style="text-align: center" align="center">
     <img src="assets/20230920_203818.jpg" style="width: 30%">
@@ -70,7 +70,7 @@
 </p>
 
 ### Step 7: lever and receiver
-- 1 x M5x10 mm screws
+- 1 x M5x12 mm screws
 - These are mechanical parts and should move freely. Each screw should be tightened until the parts stop moving and untightened about half a turn so they can spin around the screw.
 
 
@@ -92,7 +92,7 @@
 </p>
 
 ### Step 9: receiver and elevator
-- 1 x M5x10 mm screws
+- 1 x M5x12 mm screws
 - These are mechanical parts and should move freely. Each screw should be tightened until the parts stop moving and untightened about half a turn so they can spin around the screw.
 
 <p style="text-align: center; margin: 0" align="center">
@@ -124,7 +124,7 @@
 </p>
 
 ### Step 12: receiver lid
-- 3 x M5x10 mm screws
+- 3 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230920_201256.jpg" style="width: 30%">
@@ -164,7 +164,7 @@ The dart blaster assembly should look something like in the pictures below.
 </p>
 
 ### Step 1: stock and grip
-- 5 x M5x10 mm screws
+- 5 x M5x12 mm screws
 - 3 x M5x20 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
@@ -178,7 +178,7 @@ The dart blaster assembly should look something like in the pictures below.
 
 ### Step 2: loading tube and back sights (non-firing variant only)
 - 9 x M3x8 mm screws
-- 2 x M5x10 mm screws
+- 2 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230920_211304.jpg" style="width: 30%">
@@ -187,12 +187,12 @@ The dart blaster assembly should look something like in the pictures below.
 </p>
 
 ### Step 3: loading tube and back cover (dart blaster variant only)
-- 2 x M5x10 mm screws
+- 2 x M5x12 mm screws
 
 Same as step 2 but assemble only the bottom 2 parts (loading tube and back cover)
 
 ### Step 4: loading tube and front cover
-- 2 x M5x10 mm screws
+- 2 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230920_212312.jpg" style="width: 30%">
@@ -202,7 +202,7 @@ Same as step 2 but assemble only the bottom 2 parts (loading tube and back cover
 
 ### Step 5: front decorations
 - 7 x M3x8 mm screws
-- 2 x M5x10 mm screws
+- 2 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230920_212053.jpg" style="width: 60%">
@@ -228,7 +228,7 @@ Same as step 2 but assemble only the bottom 2 parts (loading tube and back cover
 
 ### Step 2: side plates
 - 2 x M3x8 mm screws
-- 5 x M5x10 mm screws
+- 5 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230830_183708.jpg" style="width: 20%">
@@ -241,7 +241,7 @@ Same as step 2 but assemble only the bottom 2 parts (loading tube and back cover
 </p>
 
 ### Step 3: front grip to receiver
-- 4 x M5x10 mm screws
+- 4 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230830_182802.jpg" style="width: 20%">
@@ -266,7 +266,7 @@ Same as step 2 but assemble only the bottom 2 parts (loading tube and back cover
 </p>
 
 ### Step 6: front end to grip
-- 4 x M5x10 mm screws
+- 4 x M5x12 mm screws
 
 <p style="text-align: center; margin: 0" align="center">
     <img src="assets/20230830_182000.jpg" style="width: 20%">
